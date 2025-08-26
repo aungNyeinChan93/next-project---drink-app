@@ -3,8 +3,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 ## Vercel Host
-- [Vercel Host](https://next-project-drink-app.vercel.app/)
-
+- [App Host](https://next-project-drink-app.vercel.app/)
+-https://next-project-drink-app.vercel.app
 
 ## Getting Started
 
@@ -47,4 +47,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 ### Vercel Host
-- [Vercel Host](https://next-project-drink-app.vercel.app/)
+- [App Host](https://next-project-drink-app.vercel.app/)
+https://next-project-drink-app.vercel.app
